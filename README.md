@@ -13,6 +13,10 @@ Online jupyter tutorials:
 
 https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#introductory-tutorials
 
+Markdown guide:
+
+https://www.markdownguide.org/basic-syntax/
+
 Dataset used:
 
 https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2/FUKFBY
