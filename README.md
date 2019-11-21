@@ -7,3 +7,6 @@ https://linkto.run/p/TQJI15K7
 
 Online reference textbook:
 https://runestone.academy/runestone/books/published/thinkcspy/index.html
+
+Online jupyter tutorials:
+https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#introductory-tutorials
